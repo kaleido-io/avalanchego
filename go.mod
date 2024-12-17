@@ -7,8 +7,6 @@ module github.com/ava-labs/avalanchego
 // go.mod (here, only major.minor can be specified)
 go 1.22.0
 
-toolchain go1.22.2
-
 require (
 	github.com/DataDog/zstd v1.5.2
 	github.com/Microsoft/go-winio v0.5.2
