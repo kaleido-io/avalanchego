@@ -5,7 +5,7 @@ module github.com/ava-labs/avalanchego
 // Dockerfile
 // README.md
 // go.mod (here, only major.minor can be specified)
-go 1.22
+go 1.22.0
 
 toolchain go1.22.2
 
